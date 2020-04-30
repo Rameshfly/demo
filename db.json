@@ -9,11 +9,6 @@
     { "id": 2, "body": "some comment", "postId": 1 }
   ],
   "profile": [
-    {
-    "id": 1,
-    "name": "iPhone",
-    "email": "iPhone is the stylist phone ever",
-    "age": 100
-    }   
+    
   ]
 }
